@@ -5,8 +5,6 @@
 ![Animation of ThermometerControl in action](ThermometerControlDemo/images/demo.gif)
 
 ## How to use
-
-### Measurement in real world units
 Use it like a `UISlider`:
 
 ```swift
